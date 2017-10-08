@@ -1,0 +1,2 @@
+Now I create another file
+add a new line into newfile
